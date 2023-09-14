@@ -1,16 +1,11 @@
-# rickandmorty
+# Rick and Morty APP
 
-Un APP de Rick & Morty
+A app of Rick and Morty created in Flutter, using the API https://rickandmortyapi.com
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a basic Flutter project using dependencies such as http, provider and go_router. 
 
-A few resources to get you started if this is your first Flutter project:
+## Description of the APP
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app receives all the characters of Rick and Morty, making a brief description of each one, if alive, origin, species and in which episode.
